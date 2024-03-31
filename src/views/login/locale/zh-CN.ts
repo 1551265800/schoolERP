@@ -1,0 +1,21 @@
+export default {
+  "login.form.title": "管理平台",
+  "login.form.userName.errMsg": "请输入用户名",
+  "login.form.password.errMsg": "请输入密码",
+  "login.form.verificationCode.errMsg": "请输入验证码",
+  "login.form.login.errMsg": "登录出错，轻刷新重试",
+  "login.form.login.success": "欢迎使用",
+  "login.form.userName.placeholder": "请输入用户名",
+  "login.form.password.placeholder": "请输入密码",
+  "login.form.password.verificationCode.placeholder": "请输入验证码",
+  "login.form.rememberPassword": "自动登录",
+  "login.form.forgetPassword": "忘记密码",
+  "login.form.login": "登录",
+  "login.form.register": "注册账号",
+  'login.banner.slogan1': '管理平台',
+  'login.banner.subSlogan1': '多级商户一站式自动分账',
+/*   'login.banner.slogan2': '内置了常见问题的解决方案',
+  'login.banner.subSlogan2': '国际化，路由配置，状态管理应有尽有',
+  'login.banner.slogan3': '接入可视化增强工具AUX',
+  'login.banner.subSlogan3': '实现灵活的区块式开发',  */
+};
